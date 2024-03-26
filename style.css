@@ -1,0 +1,103 @@
+body {
+    font-family: 'Roboto' sans-serif;
+    font-size: 21px;
+    margin: 0;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 42px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-weight: 100;
+    margin-top: 0;
+    display: inline-block;
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 1px solid #C4C4C4
+}
+
+h3 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.small {
+    font-size: 16px;
+    margin-bottom: 0;
+    color: #99d930;
+    margin-top: 0;
+}
+
+.header {
+    background-color: #252525;
+    padding: 100px 0;
+    color: #fff
+}
+
+.aboutmME {
+    background-color: #ffeaea;
+    padding: 100px 0;
+
+
+}
+
+.article {
+    background-color: #252525;
+    padding: 100px 0;
+    color: #fff
+}
+
+.heading {
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.heading1 {
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 1.2;
+    color: #99d930;
+}
+
+.heading2 {
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1.2;
+    color: #99d930;
+}
+
+.heading3 {
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 1.2;
+    color: #99d930;
+}
+
+.link {
+    color: rgb(42, 233, 42);
+}
+
+.link:hover {
+    color: #131313;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 0.5em 1em;
+    color: #252525;
+    background: #99d930;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.button1:hover {
+    color: #fff;
+    background-color: #252525;
+}
